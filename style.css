@@ -7,10 +7,16 @@ html {
 
 body {
   margin: 0;
+  padding: 2rem;
 }
 
-p {
-  padding: 2rem;
+div {
+  margin-top: 1rem;
+}
+
+a {
+  display: block;
+  margin-top: 2rem;
 }
 
 @media (prefers-color-scheme: dark) {
